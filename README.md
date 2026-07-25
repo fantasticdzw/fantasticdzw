@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DaiZhengwei 🎮
+<img width="1180" height="662" alt="卡牌对战GIF" src="https://github.com/user-attachments/assets/d8f0712c-a1c5-4505-b025-48d1164b3f0a" /># 👋 Hi, I'm 代正伟 🎮
 
 > Mobile Game Designer & Indie Developer
 > 专注于休闲/社交游戏设计、系统/商业化拆解与快速原型开发。
@@ -27,7 +27,8 @@
 ![XMind](https://img.shields.io/badge/XMind-E02020?style=for-the-badge)
 ![ThinkingData](https://img.shields.io/badge/Data_Analytics-ThinkingData-blue?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/
+535359978)
 ---
 
 ### 🚀 Featured Showcase | 个人作品/Demo 展台
@@ -39,7 +40,7 @@
 * **机制 Highlights**：[简单描述 1-2 个亮点，如：轻量化概率算法 / 状态机控制 / 动态数值计算]
 * 🎥 **玩法演示**：
   <!-- 粘贴你转成的 GIF 动图链接或生成的 HTML video 标签 -->
-  ![Gameplay Demo](./assets/gameplay-demo.gif)
+<img width="1180" height="662" alt="卡牌对战GIF" src="https://github.com/user-attachments/assets/90731e02-bd6c-4b80-94e1-daabaff9a4cf" />
 
 ---
 
