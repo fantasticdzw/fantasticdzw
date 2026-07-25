@@ -35,12 +35,19 @@
 
 > 💡 *点击项目名称可查看源码与详细设计文档*
 
-#### 🎲 [作品名称 1：卡牌对战 Demo]
-> **简介**：基于 Unity / HTML 快速开发的核心机制验证原型。
-* **机制 Highlights**：[简单描述 1-2 个亮点，如：轻量化概率算法 / 状态机控制 / 动态数值计算]
+#### 🎲 [作品名称 1：异世界冒险 Demo]
+> **简介**：基于 Unity 的异世界冒险玩法验证
 * 🎥 **玩法演示**：
 
-<img width="1180" height="662" alt="卡牌对战GIF" src="https://github.com/user-attachments/assets/90731e02-bd6c-4b80-94e1-daabaff9a4cf" />
+<img width="718" alt="主界面GIF" src="https://github.com/user-attachments/assets/e559cfd9-9490-471a-8e59-128d844e33e9" />
+
+---
+
+#### 🎲 [作品名称 2：卡牌对战 Demo]
+> **简介**：基于 Unity 的卡牌对战玩法（三国杀）
+* 🎥 **玩法演示**：
+
+<img width="716" alt="卡牌玩法GIF" src="https://github.com/user-attachments/assets/7874fe93-1bac-4682-8c2d-8e89aef714c1" />
 
 ---
 
