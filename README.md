@@ -1,16 +1,17 @@
-<img width="1180" height="662" alt="卡牌对战GIF" src="https://github.com/user-attachments/assets/d8f0712c-a1c5-4505-b025-48d1164b3f0a" /># 👋 Hi, I'm 代正伟 🎮
+# 👋 Hi, I'm 代正伟 🎮
 
-> Mobile Game Designer & Indie Developer
+> **Mobile Game Designer & Indie Developer**  
 > 专注于休闲/社交游戏设计、系统/商业化拆解与快速原型开发。
 
 ---
 
 ### 💡 About Me | 关于我
 
-* 🎯 当前方向：休闲/社交手游策划 (对标 Coin Master / Dice Dreams 类机制) & 游戏原型搭建
-* 🛠️ 硬核特长：熟练掌握 “Unity” & “C#”，擅长结合 “AI + HTML” 快速构建可视化玩法 Demo（Prototype）
-* 📊 设计理念：数据驱动与玩法创新结合，具备成熟的 0 到 1 研发与商业化系统拆解能力
-* 📫 联系方式：1994095830@qq.com
+* 🎯 **当前方向**：休闲/社交手游策划 (对标 Coin Master / Dice Dreams 类机制) & 游戏原型搭建
+* 🛠️ **硬核特长**：熟练掌握 **Unity** & **C#**，擅长结合 **AI + HTML** 快速构建可视化玩法 Demo（Prototype）
+* 📊 **设计理念**：数据驱动与玩法创新结合，具备成熟的 0 到 1 研发与商业化系统拆解能力
+* 📫 **联系方式**：1994095830@qq.com
+* 📺 **B站主页**：[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩视频演示-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/535359978)
 
 ---
 
@@ -27,19 +28,18 @@
 ![XMind](https://img.shields.io/badge/XMind-E02020?style=for-the-badge)
 ![ThinkingData](https://img.shields.io/badge/Data_Analytics-ThinkingData-blue?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/
-535359978)
+
 ---
 
 ### 🚀 Featured Showcase | 个人作品/Demo 展台
 
 > 💡 *点击项目名称可查看源码与详细设计文档*
 
-#### 🎲 [作品名称 1：如 核心玩法 Demo 1]
+#### 🎲 [作品名称 1：卡牌对战 Demo]
 > **简介**：基于 Unity / HTML 快速开发的核心机制验证原型。
 * **机制 Highlights**：[简单描述 1-2 个亮点，如：轻量化概率算法 / 状态机控制 / 动态数值计算]
 * 🎥 **玩法演示**：
-  <!-- 粘贴你转成的 GIF 动图链接或生成的 HTML video 标签 -->
+
 <img width="1180" height="662" alt="卡牌对战GIF" src="https://github.com/user-attachments/assets/90731e02-bd6c-4b80-94e1-daabaff9a4cf" />
 
 ---
@@ -52,7 +52,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Games are a series of interesting decisions." — Sid Meier</i>
-</p>
