@@ -82,6 +82,28 @@
   </tr>
 </table>
 
+## 📝 Game Design Notes｜案例与思考
+
+<p align="center">
+  <a href="https://github.com/fantasticdzw/Game-Design-Case-Studies">
+    <img src="https://github.com/fantasticdzw/Game-Design-Case-Studies/raw/main/assets/cover.svg" alt="游戏策划案例集" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  把体验观察、系统拆解和活动设计整理成公开案例摘要，持续记录对休闲 / 社交游戏的理解。
+</p>
+
+| 分析案例 | 玩法设计案例 |
+| :---: | :---: |
+| [休闲游戏体验报告](https://github.com/fantasticdzw/Game-Design-Case-Studies/blob/main/cases/01-casual-game-ux-report.md) · [Domino Dreams 体验分析](https://github.com/fantasticdzw/Game-Design-Case-Studies/blob/main/cases/02-domino-dreams-analysis.md) | [卡片交换集市](https://github.com/fantasticdzw/Game-Design-Case-Studies/blob/main/cases/03-card-exchange-market.md) · [翻牌热潮](https://github.com/fantasticdzw/Game-Design-Case-Studies/blob/main/cases/04-flip-card-frenzy.md) |
+
+<p align="center">
+  <a href="https://github.com/fantasticdzw/Game-Design-Case-Studies"><strong>进入完整案例集 →</strong></a>
+</p>
+
+---
+
 ## 🚀 Selected Projects｜项目展台
 
 <table>
