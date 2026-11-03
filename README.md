@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/fantasticdzw/Game-Design-Case-Studies">
-    <img src="https://github.com/fantasticdzw/Game-Design-Case-Studies/raw/main/assets/cover.svg" alt="游戏策划案例集" width="900" />
+    <img src="./assets/case-studies-cover.svg" alt="游戏策划案例集" width="900" />
   </a>
 </p>
 
