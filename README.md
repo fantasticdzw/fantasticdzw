@@ -88,7 +88,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/fantasticdzw/RPG-Card-Game">
-        <img src="./assets/rpg-card.gif" alt="RPG 卡牌游戏 Demo" width="100%" />
+        <img src="./assets/rpg-card-preview.jpg" alt="RPG 卡牌游戏 Demo" width="100%" />
       </a>
       <h3>🎴 RPG-Card-Game</h3>
       <p>一个卡牌 RPG 游戏 Demo。</p>
@@ -100,7 +100,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/fantasticdzw/Rebirth">
-        <img src="./assets/rebirth.gif" alt="Rebirth 游戏 Demo" width="100%" />
+        <img src="./assets/rebirth-preview.jpg" alt="Rebirth 游戏 Demo" width="100%" />
       </a>
       <h3>🌱 Rebirth</h3>
       <p>模拟经营之环境保护。</p>
