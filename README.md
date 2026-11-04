@@ -56,6 +56,26 @@
 
 ---
 
+## 🔍 Featured Analysis｜Coin Master
+
+<p align="center">
+  <a href="https://github.com/fantasticdzw/Coin-Master-Teardown">
+    <img src="./assets/coin-master-cover.svg" alt="Coin Master 系统、活动与商业化拆解" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  从核心循环、资源经济与社交关系出发，拆解 Coin Master 的活动体系和付费时机，并给出一项围绕玩家意图编排目标的 LiveOps 优化提案。
+</p>
+
+<p align="center">
+  <a href="https://github.com/fantasticdzw/Coin-Master-Teardown/blob/main/report.md"><strong>阅读完整拆解报告 →</strong></a>
+  ·
+  <a href="https://github.com/fantasticdzw/Coin-Master-Teardown#核心结论">查看核心结论</a>
+</p>
+
+---
+
 ## 🎮 Player Profile｜我的玩家档案
 
 <p align="center">
